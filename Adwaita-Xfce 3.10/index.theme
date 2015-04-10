@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Adwaita-Xfce 3.10
+Comment=Adwaita GTK theme forked from upstream, Designed and Optimized for Xfce.
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=Adwaita-Xfce 3.10
+Type=X-GNOME-Metatheme
+Comment=Adwaita GTK theme forked from upstream, Designed and Optimized for Xfce.
+Encoding=UTF-8
+GtkTheme=Adwaita-Xfce 3.10
+MetacityTheme=Adwaita
+IconTheme=gnome
+CursorTheme=Adwaita
+CursorSize=24
+CursorTheme=DMZ-Black
