@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Adwaita-Xfce
+Comment=Adwaita for Xfce desktop environment.
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=Adwaita-Xfce
+Type=X-GNOME-Metatheme
+Comment=Adwaita for Xfce.
+Encoding=UTF-8
+GtkTheme=Adwaita-Xfce
+MetacityTheme=Adwaita
+IconTheme=gnome
+CursorTheme=Adwaita
+CursorSize=24
+CursorTheme=DMZ-Black
+ButtonLayout=close,minimize,maximize:
