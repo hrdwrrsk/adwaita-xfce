@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Adwaita-Xfce Dark
+Comment=Adwaita GTK theme forked from upstream, Designed and Optimized for Xfce (Dark Universal version).
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=Adwaita-Xfce Dark
+Type=X-GNOME-Metatheme
+Comment=Adwaita GTK theme forked from upstream, Designed and Optimized for Xfce (Dark Universal version).
+Encoding=UTF-8
+GtkTheme=Adwaita-Xfce Dark
+MetacityTheme=Adwaita
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24
+ButtonLayout=:minimize,maximize,close
