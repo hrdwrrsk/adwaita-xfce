@@ -1,5 +1,4 @@
 # Adwaita-Xfce is a GTK+ theme based on upstream (vanilla) version of Adwaita, modified and tweaked for Xfce desktop environment.
-============
 Contains 4 versions:
 - Adwaita-Xfce 3.10 requires GTK+ 3.10
 - Adwaita-Xfce 3.12 requires GTK+ 3.12
